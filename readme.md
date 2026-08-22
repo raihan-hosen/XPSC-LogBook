@@ -1,4 +1,4 @@
-# 🥷 XPSC - Shadow Solvers Vault
+# 🥷 XPSC - LogBook
 
 > *"Solving in silence, letting the green squares make the noise."*
 
