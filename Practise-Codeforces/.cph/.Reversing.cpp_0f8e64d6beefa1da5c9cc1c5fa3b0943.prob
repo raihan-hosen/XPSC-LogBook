@@ -1,0 +1,1 @@
+{"name":"Local: Reversing","url":"/Users/raihan/Documents/XPSC-LogBook/Practise-Codeforces/Reversing.cpp","tests":[{"id":1787579089708,"input":"7\n1 2 0 4 0 5 6","output":"4 0 1 2 0 5 6 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/raihan/Documents/XPSC-LogBook/Practise-Codeforces/Reversing.cpp","group":"local","local":true}
