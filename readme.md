@@ -14,5 +14,7 @@ Solutions are categorized by Week for seamless navigation:
 ├── XPSC-LogBook/
 │   ├── Week-1/
 │   └── Week-2/
+│   └── Week-3/
+│   └── Week-n/
 ├── Practise-Codeforces/
 ├── Practise-Codechef/
