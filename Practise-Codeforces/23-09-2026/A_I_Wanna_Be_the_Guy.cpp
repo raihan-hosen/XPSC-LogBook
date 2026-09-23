@@ -8,9 +8,23 @@ void solve()
     cin >> n;
 
     set<ll> levels;
-    while (cin >> value)
+
+    int p;
+    cin >> p;
+    for (int i = 0; i < p; i++)
     {
-        levels.insert(value);
+        int level;
+        cin >> level;
+        levels.insert(level);
+    }
+
+    int q;
+    cin >> q;
+    for (int i = 0; i < q; i++)
+    {
+        int level;
+        cin >> level;
+        levels.insert(level);
     }
 
     if (levels.size() == n)
