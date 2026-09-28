@@ -17,4 +17,12 @@ Solutions are categorized by Week for seamless navigation:
 │   └── Week-3/
 │   └── Week-n/
 ├── Practise-Codeforces/
+│   ├── Day-Month-Year/
+│   └── Day-Month-Year/
+│   └── Day-Month-Year/
+│   └── Day-Month-Year/
 ├── Practise-Codechef/
+│   ├── Day-Month-Year/
+│   └── Day-Month-Year/
+│   └── Day-Month-Year/
+│   └── Day-Month-Year/
