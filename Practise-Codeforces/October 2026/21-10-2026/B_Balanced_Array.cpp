@@ -15,7 +15,7 @@ void solve()
     }
 
     cout << "YES" << endl;
-    ll evenSum = 0;
+    ll evenSum = 0, oddSum = 0;;
 
     for (int i = 1; i <= k; ++i)
     {
@@ -23,8 +23,7 @@ void solve()
         cout << val << " ";
         evenSum += val;
     }
-
-    ll oddSum = 0;
+    
     for (int i = 1; i < k; ++i)
     {
         int val = 2 * i - 1;
