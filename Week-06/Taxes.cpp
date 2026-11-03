@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-using ll = long long int;
+typedef long long int ll;
 
 bool isPrime(ll n)
 {
